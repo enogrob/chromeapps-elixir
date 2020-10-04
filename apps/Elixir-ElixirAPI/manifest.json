@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://elixir-lang.org/docs/stable/"
+      "https://hexdocs.pm/elixir/"
     ],
     "launch": {
-      "web_url": "http://elixir-lang.org/docs/stable/"
+      "web_url": "https://hexdocs.pm/elixir/"
     }
   },
   "icons": {
