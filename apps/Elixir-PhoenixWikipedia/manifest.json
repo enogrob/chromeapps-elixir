@@ -1,0 +1,17 @@
+{
+  "name": "Phoenix Wikipedia",
+  "description": "Access Phoenix Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://en.wikipedia.org/wiki/Phoenix_(web_framework)"
+    ],
+    "launch": {
+      "web_url":"https://en.wikipedia.org/wiki/Phoenix_(web_framework)"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
