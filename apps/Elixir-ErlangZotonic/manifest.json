@@ -1,0 +1,17 @@
+{
+  "name": "Zotonic",
+  "description": "Access Zotonic",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://zotonic.com/"
+    ],
+    "launch": {
+      "web_url": "http://zotonic.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
