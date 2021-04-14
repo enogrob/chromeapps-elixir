@@ -1,0 +1,17 @@
+{
+  "name": "Membrane",
+  "description": "Access Membrane",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.membraneframework.org/"
+    ],
+    "launch": {
+      "web_url": "https://www.membraneframework.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

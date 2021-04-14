@@ -1,0 +1,17 @@
+{
+  "name": "Thinking Elixir",
+  "description": "Access Thinking Elixir",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://thinkingelixir.com/"
+    ],
+    "launch": {
+      "web_url": "https://thinkingelixir.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://github.com/h4cc/awesome-elixir"
+      "https://elixir.libhunt.com/"
     ],
     "launch": {
-      "web_url": "https://github.com/h4cc/awesome-elixir"
+      "web_url": "https://elixir.libhunt.com/"
     }
   },
   "icons": {
