@@ -1,0 +1,17 @@
+{
+  "name": "LiveBook",
+  "description": "Access LiveBook",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/elixir-nx/livebook"
+    ],
+    "launch": {
+      "web_url": "https://github.com/elixir-nx/livebook"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
