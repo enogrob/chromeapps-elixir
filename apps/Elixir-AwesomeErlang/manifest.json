@@ -1,0 +1,17 @@
+{
+  "name": "Erlang Awesome",
+  "description": "Erlang Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://elixir.libhunt.com/"
+    ],
+    "launch": {
+      "web_url": "https://github.com/uhub/awesome-erlang"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
