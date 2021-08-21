@@ -1,0 +1,17 @@
+{
+  "name": "Erlang Repl",
+  "description": "Erlang Repl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://riju.codes/erlang"
+    ],
+    "launch": {
+      "web_url": "https://riju.codes/erlang"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Elxir Repl",
+  "description": "Elixir Repl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://riju.codes/elixir"
+    ],
+    "launch": {
+      "web_url": "https://riju.codes/elixir"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
