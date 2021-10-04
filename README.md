@@ -57,6 +57,8 @@ $ cd apps
 $ xdg-open .&
 ```
 
+![Chrome screenshot](images/chrome_screenshot4.png)
+
 ### 2. Open Chrome with the following url:
 In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Elixir-Homepage`, and then repeat that for the wanted apps. 
 
