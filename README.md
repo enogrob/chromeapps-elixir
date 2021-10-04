@@ -1,14 +1,17 @@
 # Chrome Apps for Elixir
 
+Gather Elixir important references and shortcuts in form of Chrome Apps.
+
 ![Chrome Apps logo](images/chrome_apps.png)
 
 ## Installation
 
-### 1. Clone this repository and see its contents.
+### 1. Clone this repository or download and see its contents.
 Open a terminal give the following command:
 
 ```bash
 $ git clone https://github.com/enogrob/chromeapps-elixir.git
+$ cd chromeapps-elixir
 ```
 
 As we can see a subdirectory is created for each Elixir app.
@@ -48,14 +51,23 @@ apps
 └── Elixir-PhoenixAPI
 
 17 directories, 0 files
-$
+
+# in order to open Files in "Linux" to drag the App folders if wanted.
+$ cd apps
+$ xdg-open .&
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Elixir-Homepage`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
+In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Elixir-Homepage`, and then repeat that for the wanted apps. 
 
-[chrome://extensions](chrome://extensions)
+![Chrome screenshot](images/chrome_screenshot2.png)
+
+Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
+
+![Chrome screenshot](images/chrome_screenshot3.png)
 
 ### 3. After load the Chrome Apps wanted for Elixir, Chrome will look like the screenshot below:
 
 ![Chrome screenshot](images/chrome_screenshot1.png)
+
+Pressione the Chrome "Apps" button and then look for the ones you have inserted. You can drag as you want in order to put them in desired order.
